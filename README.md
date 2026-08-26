@@ -13,7 +13,6 @@ A modern and responsive **real estate website** built with **Next.js**. LANDMARK
 * 🎨 Modern UI with reusable components
 * ⚡ Fast page navigation with Next.js
 * 🧩 Component-based architecture
-* 📐 Responsive layouts for desktop, tablet, and mobile
 
 ## 🛠️ Technologies Used
 
