@@ -6,7 +6,7 @@ export default function Home() {
 
 
       <div className="flex w-1/2 flex-col justify-center p-10">
-        <h1 className="text-4xl font-bold">Family-Friendly Housing in Karachi</h1>
+        <h1 className="text-4xl font-bold">Family-Friendly Housing in <span className="text-orange-500">Karachi</span></h1>
 
         <p className="mt-4 text-gray-500">
           Find your next home from our carefully-selected
@@ -46,7 +46,7 @@ export default function Home() {
             <option>30,0000</option>
           </select>
 
-          <button className="rounded-3xl bg-black px-8 py-3 font-medium text-white transition-all hover:bg-orange-500">
+          <button className="rounded-3xl px-3 py-1 font-medium border-2 border-orange-500 transition-all hover:bg-orange-500">
             Contact
           </button>
 
