@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="h-full">
-      <body className="h-screen overflow-hidden flex flex-col">
+      <body className="min-h-screen flex flex-col">
         <Navbar />
 
-        <main className="flex-1 overflow-hidden">
+        <main className="flex-1">
           {children}
         </main>
       </body>
