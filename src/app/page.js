@@ -6,7 +6,7 @@ export default function Home() {
 
 
       <div className="flex w-1/2 flex-col justify-center p-10">
-        <h1 className="text-4xl font-bold">Family-Friendly Housing in <span className="text-orange-500">Karachi</span></h1>
+        <h1 className="text-4xl font-bold">Family-Friendly Housing in <span className="text-orange-500">Lahore</span></h1>
 
         <p className="mt-4 text-gray-500">
           Find your next home from our carefully-selected
